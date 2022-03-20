@@ -1,0 +1,64 @@
+body{
+    background-color: #363636;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+#title{
+    background-color: white;
+    color: black;
+    font-size: 150%;
+}
+
+#hyperNova{
+    margin: 10px;
+}
+
+.textBox {
+    display: inline-block;
+    text-align: left;
+}
+
+.subTitle{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 40em;
+    border: 5px double white;
+}
+
+table{
+    border-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+td{
+    padding: 10px;
+    margin: 10px;
+}
+
+button{
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+}
+
+#profile{
+    padding-top: 10px;
+}
+
+h2#Catch{
+    padding: 10px;
+    width: 50%;
+}
+
+img#GPlay{
+    width: 20%;
+    height: 20%;
+}
+
+footer{
+    background-color: white;
+    color: black;
+}
